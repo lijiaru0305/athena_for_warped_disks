@@ -1,6 +1,6 @@
 # Athena++ for Warped Disks
 
-This is my personal fork of [Athena++](https://github.com/PrincetonUniversity/athena) for 3D hydrodynamic simulations of **warped protoplanetary disks**.
+This is my personal customized fork of [Athena++](https://github.com/PrincetonUniversity/athena) for 3D hydrodynamic simulations of **warped protoplanetary disks**.
 
 ## What this repository does
 
